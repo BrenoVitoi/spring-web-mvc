@@ -1,6 +1,10 @@
 package com.daemoncyber.springwebmvc.model;
 
+
+
+
 public class Jedi {
+
     private  String name;
     private  String lastName;
 
