@@ -1,14 +1,16 @@
 package com.daemoncyber.springwebmvc.model;
 
-
-
+import javax.validation.constraints.NotBlank;
 
 public class Jedi {
 
+    @NotBlank
     private  String name;
+
+    @NotBlank
     private  String lastName;
 
-    public Jedi(final String name, final String lastname) {
+    public Jedi(String name, String lastname) {
         this.name = name;
         this.lastName = lastname;
     }
@@ -33,4 +35,3 @@ public class Jedi {
         this.lastName = lastName;
     }
 }
-

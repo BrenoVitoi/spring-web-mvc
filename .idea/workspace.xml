@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf55fa7b-50f2-434f-a43d-34a8ae1b2d62" name="Default Changelist" comment="" />
+    <list default="true" id="343338d4-3b64-4eeb-81b5-268b6c410cc4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-web-mvc/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-web-mvc/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-web-mvc/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-web-mvc/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-web-mvc/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-web-mvc/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-web-mvc/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-web-mvc/src/main/java/com/daemoncyber/springwebmvc/SpringWebMvcApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-web-mvc/src/main/java/com/daemoncyber/springwebmvc/controller/JediController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-web-mvc/src/main/java/com/daemoncyber/springwebmvc/model/Jedi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-web-mvc/src/main/java/com/daemoncyber/springwebmvc/repository/JediRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-web-mvc/src/main/java/com/spring/web/WebMvcApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-web-mvc/src/main/java/com/spring/web/controller/JediController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-web-mvc/src/main/java/com/spring/web/model/Jedi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-web-mvc/src/main/java/com/spring/web/repository/JediRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-web-mvc/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-web-mvc/src/main/resources/templates/jedi.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-web-mvc/src/main/resources/templates/new-jedi.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-web-mvc/src/test/java/com/daemoncyber/springwebmvc/SpringWebMvcApplicationTests.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +33,37 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring-web-mvc" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring-web-mvc" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring-web-mvc" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="application" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -23,8 +76,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1eMJkP9wXntt5zSOW6H8W4r3ycs" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1eNCv2U3O1FhNr0TdzUJ5q26KMR" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -34,19 +86,84 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/build.gradle" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build.android" />
     <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.daemoncyber.springwebmvc.model" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="spring-web-mvc [bootRun]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bootRun" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.spring-web-mvc [bootRun]" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="bf55fa7b-50f2-434f-a43d-34a8ae1b2d62" name="Default Changelist" comment="" />
-      <created>1594125670732</created>
+      <changelist id="343338d4-3b64-4eeb-81b5-268b6c410cc4" name="Default Changelist" comment="" />
+      <created>1594152890157</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1594125670732</updated>
+      <updated>1594152890157</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="163" y="0" key="#Project_Structure" timestamp="1594153363944">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1594153363944" />
+    <state x="488" y="48" key="#com.intellij.ide.util.MemberChooser" timestamp="1594211371897">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="48" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1594211371897" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1594211762926">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1594211762926" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1594211762926">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1594211762926" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1594211762926">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1594211762926" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1594211762926">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1594211762926" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1594153527745">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1594153527745" />
   </component>
 </project>
